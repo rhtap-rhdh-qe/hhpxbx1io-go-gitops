@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hhpxbx1io-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hhpxbx1io-go
